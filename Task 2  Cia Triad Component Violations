@@ -1,0 +1,6 @@
+Cyber Attack	Confidentiality	Integrity	Availability	Explanation
+WanaCry ransomware attack	No	Yes	Yes	Files were encrypted (integrity affected) and users lost access to their systems (availability affected).
+Colonial Pipeline ransomware attack	No	Yes	Yes	Systems were encrypted and pipeline operations were shut down.
+SolarWinds cyberattack	Yes	Yes	No	Attackers accessed sensitive information and modified trusted software updates.
+Equifax data breach	Yes	No	No	Sensitive customer information was stolen, violating confidentiality.
+NotPetya cyberattack	No	Yes	Yes	Data was destroyed or corrupted, and systems became unavailable.
