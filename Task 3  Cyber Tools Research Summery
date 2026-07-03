@@ -1,0 +1,4 @@
+Tool	Primary Purpose	Main Functions	Common Users
+Nmap	Network scanning	Host discovery, port scanning, OS detection	Network administrators, penetration testers
+Wireshark	Network traffic analysis	Packet capture, protocol analysis, troubleshooting	Network engineers, forensic analysts, security professionals
+Burp Suite	Web application security testing	Intercept requests, test web vulnerabilities, analyze HTTP/HTTPS traffic	Ethical hackers, penetration testers, bug bounty hunters
