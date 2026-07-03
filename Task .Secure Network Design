@@ -1,0 +1,38 @@
+Secure Network Design
+Definition
+
+A Secure Network Design is the process of planning and building a computer network with security as a primary goal. It ensures that network devices, data, and users are protected from unauthorized access, cyberattacks, and data breaches while maintaining the Confidentiality, Integrity, and Availability (CIA Triad) of information.
+
+Objectives of Secure Network Design
+Protect sensitive data from unauthorized access.
+Prevent cyberattacks such as malware, ransomware, and phishing.
+Ensure continuous network availability.
+Detect and respond to security threats quickly.
+Minimize the impact of security incidents.
+Support business continuity and disaster recovery.
+Key Components of Secure Network Design
+Component	Description
+Firewall	Filters incoming and outgoing network traffic based on predefined security rules. It blocks unauthorized access while allowing legitimate communication.
+Network Segmentation	Divides a network into smaller sections (subnets or VLANs) to reduce the spread of cyberattacks and improve security management.
+Intrusion Detection and Prevention System (IDS/IPS)	Monitors network traffic to detect suspicious activities. IDS alerts administrators, while IPS automatically blocks malicious traffic.
+Access Control	Ensures that only authorized users and devices can access network resources using authentication and authorization mechanisms.
+Encryption	Protects sensitive data during transmission by converting it into unreadable ciphertext that can only be decrypted by authorized parties.
+Virtual Private Network (VPN)	Creates a secure encrypted connection between remote users and the organization's network over the internet.
+Multi-Factor Authentication (MFA)	Requires users to verify their identity using two or more authentication methods, reducing the risk of unauthorized access.
+Endpoint Security	Protects computers, laptops, mobile devices, and servers using antivirus software, endpoint detection and response (EDR), and security policies.
+Security Monitoring	Continuously monitors logs, events, and network traffic to identify and respond to security incidents.
+Backup and Disaster Recovery	Regularly backs up critical data and prepares recovery procedures to restore operations after cyber incidents or system failures.
+Principles of Secure Network Design
+Defense in Depth: Use multiple layers of security controls.
+Least Privilege: Give users only the permissions they need.
+Zero Trust: Never trust any user or device automatically; always verify identity and access.
+Network Segmentation: Isolate critical systems from general users.
+Regular Updates: Apply security patches and software updates promptly.
+Continuous Monitoring: Monitor the network to detect threats in real time.
+Benefits of Secure Network Design
+Reduces the risk of cyberattacks.
+Protects confidential business and customer information.
+Improves network reliability and availability.
+Supports compliance with security standards and regulations.
+Minimizes financial losses caused by security incidents.
+Enhances user trust and organizational reputation.
