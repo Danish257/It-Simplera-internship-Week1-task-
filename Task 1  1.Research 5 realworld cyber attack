@@ -1,0 +1,23 @@
+Attack	Year	Type	Main Target	Key Lesson	Impact
+WannaCry	2017	Ransomware	Windows computers	Patch systems regularly	Infected over 230,000 computers in 150+ countries. 
+Hospitals canceled appointments and surgeries. 
+Businesses experienced operational downtime. 
+Estimated losses reached billions of dollars
+Colonial Pipeline	2021	Ransomware	Critical infrastructure	Use MFA and secure remote access	Fuel pipeline operations were shut down. 
+Fuel shortages occurred across multiple U.S. states. 
+Panic buying caused long lines at gas stations. 
+The company paid approximately $4.4 million in ransom.
+
+SolarWinds	2020	Supply chain	Government & enterprises	Verify third-party software	Around 18,000 organizations received the compromised update. 
+Government agencies and major corporations were affected. 
+Sensitive communications and data were exposed. 
+Triggered extensive security investigations and remediation costs.
+
+Equifax	2017	Data breach	Consumer data	Patch web vulnerabilities	Personal data of 147 million people was exposed. 
+Identity theft and fraud risks increased significantly. 
+The company faced lawsuits, fines, and reputational damage. 
+Consumer trust in the organization declined sharply.
+
+NotPetya	2017	Destructive malware	Global businesses	Network segmentation and backups	 Disrupted operations of multinational companies worldwide. 
+Destroyed data and rendered many systems unusable.  Shipping, logistics, and manufacturing sectors were heavily affected. 
+Caused more than $10 billion in global economic losses.
